@@ -1,0 +1,58 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: HivePress Geolocation2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-14 10:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2"
+
+#: includes/components/class-geolocation2.php:70
+#: includes/components/class-geolocation2.php:75
+#: includes/components/class-geolocation2.php:83
+msgid "Destination"
+msgstr ""
+
+#: includes/configs/settings.php:17
+msgid "Destination"
+msgstr ""
+
+#: includes/configs/settings.php:22
+msgid "Countries"
+msgstr ""
+
+#: includes/configs/settings.php:30
+msgid "Radius"
+msgstr ""
+
+#: includes/configs/settings.php:31
+msgid "km"
+msgstr ""
+
+#: includes/fields/class-destination.php:102
+msgid "Locate Me"
+msgstr ""
+
+#. Name of the plugin
+msgid "HivePress Geolocation2"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allow users to search listings by location."
+msgstr ""
+
+#. Author of the plugin
+msgid "Aurore Gosmant"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hivepress.io/"
+msgstr ""
